@@ -55,5 +55,6 @@ The NoteSum Agile Development project will use Agile approaches to incrementally
 
 # Demo Presentation
 
-[NoteSum Demo Slides](uploads/c9313dba7766c686955f62d4816f7fda/IOS_LIMA_FINAL.pdf)
+[IOS_LIMA_FINAL.pdf](https://github.com/jenniferduan45/NoteSum/files/11972757/IOS_LIMA_FINAL.pdf)
+
 
