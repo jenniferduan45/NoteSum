@@ -43,7 +43,7 @@ The NoteSum Agile Development project will use Agile approaches to incrementally
 
 # Architecture
 
-![4995iOS-NoteSum_Design_Docs_-_NoteSum_Architecture](uploads/ae43b8ceef5999f4a7bfc38dd2ab975f/4995iOS-NoteSum_Design_Docs_-_NoteSum_Architecture.png)
+![4995iOS-NoteSum Design Docs - NoteSum Architecture](https://github.com/jenniferduan45/NoteSum/assets/51876963/6ccd9f68-8713-4c08-b6d3-34ebcf046b9f)
 
 # Design Docs
 
